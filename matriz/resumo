@@ -1,0 +1,11 @@
+matriz
+matriz[linha][coluna]
+
+for i in range qtt de linha
+    for j in range qtt de colunas
+        matriz[i][j]
+
+em resumo: entra na primeira linha, ve todas os valores da primeira linha (coluna)
+
+
+isso para lista:

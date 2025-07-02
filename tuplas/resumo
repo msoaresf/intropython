@@ -1,0 +1,8 @@
+tupla
+imutavel
+
+p = (3,4)
+lista dentro de tupla
+p=(3,4,[0,0],8)
+p[2][1] = 2
+p=(3,4,[0,2],8)

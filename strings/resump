@@ -1,0 +1,24 @@
+len ve o tamanho
+num:num corta a string
+ng[início : final : passo
+lower
+upper
+title =primeiras maiusculas
+capitalize = primeira maiuscula
+replace um substitui o outro
+
+find =acha dentro da string, se nao, -1
+count = conta quantas vezes aparece
+
+partitionparte a string na parte "selecionada"
+
+split = retorna uma lista cortada no bagulho
+
+string
+list(string) virou uma lista
+
+list
+list.join(-)  string concatenada
+
+nome, sobrenome, disciplina = input().split()
+print("Nome: {} Sobrenome: {} Disciplina: {}".format(nome, sobrenome, disciplina))

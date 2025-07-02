@@ -1,0 +1,21 @@
+{}
+dicionario = {chave:1valor}
+dicionario[chave]= valor
+adiciono uma chave ao dicionario assim o
+dicionario[chave2]= qualquer bosta
+
+d = {"Arroz 1kg":3.25, "Feijão 1kg":2.20, "Dúzia de ovos":4.35}
+for item in d:
+print(item)
+mostra cada chave
+
+metodo get recebe o valor atribuido a chave
+d.get(chave)
+
+itens retorna toda chave e valor do dicionario
+keys retorna todas as chaves
+values os valores
+
+d = {"Arroz 1kg":3.25, "Feijão 1kg":2.20, "Dúzia de ovos":4.35}
+for produto, valor in d.items():
+print("{} -- R$ {:.2f}".format(produto, valor))
